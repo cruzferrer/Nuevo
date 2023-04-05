@@ -1,2 +1,2 @@
 Usuario: u
-Contraseña: u
+ContraseÃ±a: u
